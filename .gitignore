@@ -1,0 +1,11 @@
+# Database file (generated from setup-db.sql)
+practice.db
+
+# VS Code settings (local to each machine)
+.vscode/
+
+# SQLTools session file
+practice.session.sql
+
+# macOS system files
+.DS_Store
